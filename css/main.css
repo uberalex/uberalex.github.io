@@ -1,0 +1,27 @@
+div, header {
+  border-radius: 0 !important;
+}
+
+body {
+    background-color: #fff;
+}
+
+#wrap{
+    background-color: #ecf0f1;
+}
+
+header.jumbotron {
+    color: #fff;
+    background-color: #34495e;
+}
+
+header.jumbotron small {
+    color: #ddd;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #34495e;
+    color: #fff;
+
+}

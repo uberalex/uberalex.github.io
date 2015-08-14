@@ -1,98 +1,108 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Dr. Alexander O'Connor</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Bootstrap -->
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+---
+layout: default
+---
 
-        <!-- Optional theme -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
-        <!-- Font Awesome -->
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-        <!-- Google Web Font -->
-        <link href='http://fonts.googleapis.com/css?family=Averia+Sans+Libre' rel='stylesheet' type='text/css'>
-        <!-- custom.css -->
-        <link rel="stylesheet" href="css/custom.css">
-    </head>
-    <body>
-        <!-- Main jumbotron for a primary marketing message or call to action -->
-        <div class="jumbotron">
-            <div class="container">
-                <div class="pull-left">
-                    <h1>Alexander O'Connor</h1>
-                    <p>I am a Research Fellow in the <a href="http://www.adaptcentre.ie">ADAPT Centre</a> @ <a href="http://kdeg.scss.tcd.ie">KDEG</a> in <a href="http://www.tcd.ie">Trinity College Dublin.</a></p>
-                    <p>This is my personal site, linking my many social web personas. <br />If you'd like to get in touch, I recommend <a href="http://www.twitter.com/uberalex"><i class="fa fa-twitter"></i>twitter.</a></p></div>
-                    <img src="http://oconnoat.github.io/searchtalk/assets/images/alex.png" class="pull-right img-responsive hidden-sm hidden-xs" />
-                    <!-- <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p> -->
-                </div>
+<body>
+    <div class="container" id="wrap">
+        <div class="row">
+    <header class="jumbotron text-center">
+                           <h1>Alexander O&apos;Connor <br />
+                        <small>Lecturer in the School of Computing, Dublin City University</small></h1>
+        <div class="row">
+            <div class="col-lg-12"> <address><i class="fa fa-map-marker"></i> Room L1.XX, Y Building, Dublin City University, Glasnevin, Dublin 9, Ireland</address></div>
+            <div class="clearfix"></div>
+            <div class="col-md-12">
+                <a href="http://www.github.com/uberalex/" class="btn btn-default btn-sm pull-left"><i class="fa fa-envelope"></i> Alex.OConnor@dcu.ie</a>
+                <a href="http://www.twitter.com/uberalex/" class="btn btn-default btn-sm pull-right"><i class="fa fa-twitter"></i> uberalex</a>
+            </div>
+
+
+        </header>
         </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2">
-                    <h2>Code</h2>
-                    <p>I work in a variety of different technologies, and often enjoy learning new languages and libraries. You can see some of my efforts here.
-                    <div class="btn-group btn-group-vertical">
-                        <a class="btn btn-primary " role="button" href="http://www.github.com/uberalex/"><i class="fa fa-github"></i> Personal Github</a>
-                        <a class="btn btn-primary " role="button" href="http://www.github.com/oconnoat/"><i class="fa fa-github"></i> Work Github</a>
-                    </div>
+    <main>
+        <article id="research" class="panel panel-default row">
+            <div class="panel-heading"><h3>Research</h3></div>
+            <div class="panel-body">
+                <section id="researchIntro" class="col-lg-12">
+                    <p>My main research interest is in content analysis for personalisation, making software fit the user's specific needs at a specific time. I have worked with technologies like Linked Open Data, Topic Modelling, Adaptive Hypermedia, and the web. I have applied this work in domains including Technology-enhanced Learning, Customer Care, and Digital Humanities.</p>
+                </section> 
+                <div class="row">
+                    <section id="projects" class="col-md-4 col-md-offset-1">
+                        <h4>Project Involvement</h4>
+                            <ul>
+                                <li><a href="http://www.adaptcentre.ie">ADAPT Centre for Digital Content</a> (SFI Centre)</li>
+                                <li><a href="http://www.cultura-strep.eu/">Cultura</a> (EU FP7)</li>
+                                <li><a href="http://www.cendari.eu/">Cendari</a> (EU FP7)</li>
+                            </ul>
+                    </section>
+                    <section id="talks" class="col-md-4  col-md-offset-1">
+                        <h4>Talks</h4>
+                            <ul>
+                                <li><a href="http://oconnoat.github.io/searchtalk/#/Start">A Brief Introduction to IR, MT and Semantics</a></li>
+                                <li><a href="http://oconnoat.github.io/indialightning/#/title">An overview of my research interests</a></li>
+                                <li><a href="http://oconnoat.github.io/d3seminar">An introduction to D3.js</a></li>
+                                <li><a href="http://oconnoat.github.io/APIOpenData">Linked Open Data</a> <a href="https://www.youtube.com/watch?v=M92QxRsbVkc"><i class="fa fa-youtube"></i> [Video]</a></li>
+                            </ul>
+                    </section>
                 </div>
-                <div class="col-md-6">
-                    <h2>Talks</h2>
-                    <p>I've been asked to deliver a variety of talks in technology, research and their intersection. Some selected presentations below.</p>
-                    <div class="btn-toolbar">
-                        <div class="btn-group btn-group-vertical">
-                            <a class="btn btn-default" role="button" href="http://oconnoat.github.io/searchtalk/#/Start">A Brief Introduction to IR, MT and Semantics</a>
-                            <a class="btn btn-default" role="button" href="http://oconnoat.github.io/indialightning/#/title">An overview of my research interests</a>
-                            <a class="btn btn-default" role="button" href="http://oconnoat.github.io/d3seminar">An introduction to D3.js</a>
-                        </div>
-                        <div class="btn-group ">
-                            <a class="btn btn-default" role="button" href="http://oconnoat.github.io/APIOpenData">Linked Open Data</a>
-                            <a class="btn btn-default" role="button" href="https://www.youtube.com/watch?v=M92QxRsbVkc"><i class="fa fa-youtube"></i>Video</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <h2>Social</h2>
-                    <p>Links to my numerous social profiles.</p>
-                        <div class="btn-group btn-group-vertical">
-                            <a class="btn btn-default" role="button" href="http://instagram.com/uberalex"><i class="fa fa-instagram"></i> instagram.com/uberalex</a>
-                            <a class="btn btn-primary" role="button" href="http://www.twitter.com/uberalex/"><i class="fa fa-twitter"></i> @uberalex</a>
-                            <a class="btn btn-default" role="button" href="http://www.facebook.com/oconnoat/"><i class="fa fa-facebook"></i> facebook.com/oconnoat</a>
-                            <a class="btn btn-default" role="button" href="http://ie.linkedin.com/in/oconnoat/"><i class="fa fa-linkedin"></i> ie.linkedin.com/in/oconnoat</a>
-                        </div>
-                </div>
-            </div>
-            <!-- /row -->
-            <hr />
-            <div class="row">
-                <div class="col-md-8">
-                    <h2>Some handy <a href="https://gist.github.com/oconnoat/"><i class="fa fa-github"></i>Gists</a> and <a href="http://jsfiddle.net/user/uberalex/fiddles/">Fiddles</a></h2>
-                    <ul>
-                        <li><a href="https://gist.github.com/oconnoat/10722268">How to show full, long filenames on the Desktop in OSX 10.9 Mavericks</a></li>
-                        <li><a href="https://gist.github.com/oconnoat/11033563">How to start a local http server with python and open chrome to the root in one line,</a></li>
-                        <li><a href="https://gist.github.com/oconnoat/11031693">Shell script to get the url for a homebrew package and open it in Google Chrome.</a></li>
-                        <li><a href="https://gist.github.com/oconnoat/02c8e7f45d2a6f4d336f">Building an example ES-EN Machine Translator in CDEC</a></li>
-                        <li><a href="http://jsfiddle.net/uberalex/zqfrnLhj/">Pure CSS style changes using sibling selectors</a></li>
-                    </ul>
-                </div>
-            </div>
+                 <div><a href="https://scholar.google.com/citations?user=ScPxfo8AAAAJ&hl=en" class="btn btn-default btn-sm"><i class="fa fa-google"></i> Google Scholar</a></div>
 
-            <footer>
-            <p>&copy; Alexander O'Connor 2015</p>
-            </footer>
-        </div> <!-- /container -->
+            </div>
+        </article>
+        <div class="row">
+        <article id="teaching" class="panel panel-default">
+            <div class="panel-heading"><h3>Teaching</h3></div>
+            <div class="panel-body">
+            <section id="CAXX" class="col-md-4 col-md-offset-1 ">
+                <h4>CAXX</h4> 
+            </section> 
+            <section id="CAYY" class="col-md-4 col-md-offset-1 ">
+                <h4>CAYY</h4> 
+            </section> 
+            </div>
+        </article>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-6">
+        <article id="code" class="panel panel-default">
+            <div class="panel-heading"><h3>Code  &amp; Snippets</h3></div>
+            <section id="snippets" class="panel-body">
+                <div class="row"><ul >
+                    <li ><a href="https://gist.github.com/oconnoat/10722268">How to show full, long filenames on the Desktop in OSX 10.9 Mavericks</a></li>
+                    <li ><a href="https://gist.github.com/oconnoat/11033563">How to start a local http server with python and open chrome</a></li>
+                    <li ><a href="https://gist.github.com/oconnoat/11031693">Shell script to get the url for a homebrew package and open it in Google Chrome.</a></li>
+                    <li ><a href="https://gist.github.com/oconnoat/02c8e7f45d2a6f4d336f">Building an example ES-EN Machine Translator in CDEC</a></li>
+                    <li ><a href="http://jsfiddle.net/uberalex/zqfrnLhj/">Pure CSS style changes using sibling selectors</a></li>
+                    </ul></div>
+            <div>
+                <a href="http://www.github.com/oconnoat/" class="btn btn-default btn-sm"><i class="fa fa-github"></i> oconnoat</a>
+                <a href="http://www.github.com/uberalex/" class="btn btn-default btn-sm pull-right"><i class="fa fa-github"></i> uberalex</a>
+            </div>
+            </section>
+        </article>
+            </div>
+            <div class="col-md-6 col-lg-6">
+        <article id="blog" class="panel panel-default">
+                <div class="panel-heading"><h3>Blog Posts</h3></div>
+            <section id="blogposts" class="panel-body">
+              <ul class="post-list">
+              {% for post in site.posts %}
+                <li><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+              {% endfor %}
+              </ul>
+            </section>
+        </article>
+            </div>
+        </div>
+    </main>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
+    <footer class="footer">
+        <p>&copy; Alexander O&apos;Connor 2015</p>
+    </footer>
+    </div>
     <!-- Latest compiled and minified JavaScript -->
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    </body>
-</html>
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+</body>
