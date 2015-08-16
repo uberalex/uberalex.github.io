@@ -12,7 +12,7 @@ body {
 
 header.jumbotron {
     color: #fff;
-    background-color: #34495e;
+    background-color: #3F51B5;
 }
 
 header.jumbotron small {
@@ -21,7 +21,23 @@ header.jumbotron small {
 
 .panel > .panel-heading {
     background-image: none;
-    background-color: #34495e;
+    background-color: #3F51B5;
     color: #fff;
 
+}
+
+a {
+    color: #3F51B5;
+}
+
+a:hover {
+     color: #FF3D00;
+}
+
+h3, h4 {
+    border-bottom: 1px solid #FF3D00;
+}
+
+.fa {
+    color: #FF3D00;
 }
