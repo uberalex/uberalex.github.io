@@ -3,9 +3,6 @@ div, header {
 }
 
 body {
-    background: url("../img/sky.jpg") no-repeat center center fixed;
-    background-size: cover;
-
     text-align: justify;
 }
 
