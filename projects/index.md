@@ -18,14 +18,14 @@ These would probably most likely suit CA or MCM students with an interest in mac
 
 Named Entity Recognition and Disambiguation is a natural language processing task which concerns the recognition that certain words refer to _entities_ (People, places, times, events). Human language is highly referential and varied, and it can be difficult to decide precisely _which_ entity is being referred to.
 
-A large amount of effective NLP is based on using journalistic, general content, where there is considerable [background knowledge](http://www.dlib.org/dlib/march06/crane/03crane.html). This works well where the data being examined is also in a modern language and refers to modern things. A key challenge is where the collection of data is 'idiosyncratic', or different. This project would look at training a system to recognise entities such as characters, places and events in narrative text.
+A large amount of effective NLP is based on using journalistic, general content, where there is considerable [background knowledge](http://www.dlib.org/dlib/march06/crane/03crane.html). This works well where the data being examined is also in a modern language and refers to modern things. A key challenge is where the collection of data is '[idiosyncratic](http://dl.acm.org/citation.cfm?id=2568013)': different in structure, vocabulary or size. This project would look at training a system to recognise entities such as characters, places and events in narrative text.
 
 This project would look at disambiguating and linking character references in novels from the Gutenberg collection.
 
 ## Semantic Textual Similarity
 
 This task is based on the [Semeval-2015 Task 2](http://alt.qcri.org/semeval2015/task2/) and is concerned with the question:
-     "Given two sentences, do they say the same thing, even if they use different words?"
+     "Given two sentences, do they say the same thing, even if they use different words?", or "Are the different sentences in this pair equivalent?"
 
 The task is interesting because some paraphrasing is extremely difficult to recognise, and creating a system that can find paraphrases without significant manual intervention would be of great value.
 
