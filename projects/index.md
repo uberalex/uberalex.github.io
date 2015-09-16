@@ -18,7 +18,7 @@ These would probably most likely suit CA or MCM students with an interest in mac
 
 Named Entity Recognition and Disambiguation is a natural language processing task which concerns the recognition that certain words refer to _entities_ (People, places, times, events). Human language is highly referential and varied, and it can be difficult to decide precisely _which_ entity is being referred to.
 
-A large amount of effective NLP is based on using journalistic, general content, where there is considerable [background knowledge](http://www.dlib.org/dlib/march06/crane/03crane.html). This works well where the data being examined is also in a modern language and refers to modern things. A key challenge is where the collection of data is '[idiosyncratic](http://dl.acm.org/citation.cfm?id=2568013)': different in structure, vocabulary or size. This project would look at training a system to recognise entities such as characters, places and events in narrative text.
+A large amount of effective NLP is based on using journalistic, general content, where there is considerable [background knowledge](http://www.dlib.org/dlib/march06/crane/03crane.html). This works well where the data being examined is also in a modern language and refers to modern things. A key challenge is where the collection of data is '[idiosyncratic](http://dl.acm.org/citation.cfm?id=2568013)': different in structure, vocabulary or size. This project would look at training a system to recognise entities such as characters, places and events in [narrative text](http://anthology.aclweb.org/W/W11/W11-41.pdf#page=80).
 
 This project would look at disambiguating and linking character references in novels from the Gutenberg collection.
 
