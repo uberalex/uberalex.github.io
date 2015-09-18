@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Academic Reading I"
+title: "Academic Reading 0"
 author: "Alexander O'Connor <dralexoconnor@gmail.com>"
 categories: [blog, Links, Research, Papers]
 
 ---
 
-## Academic Papers
+# Academic Papers
 
-*  [The Polylingual Labeled Topic Model](http://arxiv.org/abs/1507.06829)
+* [The Polylingual Labeled Topic Model](http://arxiv.org/abs/1507.06829)
 
     There is a lot of promise in the possibility that conceptual arithmetic. Different approaches to reasoning about word embeddings might prove a powerful approach to improving how systems reason about entities, rather than the strings that represent them. Another example of the power of word embeddings as a way to separate the conceptual signal from the linguistic noise.
 
@@ -24,10 +24,7 @@ categories: [blog, Links, Research, Papers]
 
     There's [considerable controversy over the effect of 'objective' algorithms](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html), in that they perhaps reflect some unpleasant features of collective behaviour. Users increasingly seem to distrust personalisation, but it's interesting to re-assess the assumptions about how to solve the unintended effects. After all, there's probably something to be learned and analysed about a user who visits a marketplace with full privacy settings, that's a stereotype that can be targeted like any other.
 
-
-
-
-## General Links
+# General Links
 
 * [How to Structure a Nature Summary Paragraph](http://t.co/xAhshxME1n) [Via @TrevorABranch](https://twitter.com/TrevorABranch/status/620699527486373888/photo/1)
 
