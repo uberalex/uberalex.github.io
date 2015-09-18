@@ -102,7 +102,7 @@ layout: default
             <section id="blogposts" class="panel-body">
               <ul class="post-list">
               {% for post in site.categories.blog %}
-                <li><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                <li><span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
               {% endfor %}
               </ul>
               <a href="{{site.url}}/feeds/blog.rss.xml" class="btn btn-default btn-sm"><i class="fa fa-rss"></i> Blog RSS</a>
