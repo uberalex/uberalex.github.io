@@ -9,10 +9,17 @@ title: Project Ideas
 
 I have general interest in machine learning, especially [deep learning for natual language processing](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial). I am also interested in personalisation and web technologies, and the link with machine learning. I am open to suggested projects in these fields, drop me an [email](malito:Alexander.OConnor@scss.tcd.ie) to arrange a discussion.
 
+## ADAPT Centre Projects
+
+I am affiliated to the SFI [ADAPT Centre for Digital Content
+Technology](http://www.adaptcentre.ie). There are a number of projects from the
+areas of the centre, or including possible collaboration with industry partners
+in the centre. If you have a topic you're interested in that fits that agenda,
+please get in touch.
 
 # Specific Projects
 
-These would probably most likely suit CA or MCM students with an interest in machine learning, language technology or the World Wide Web.
+For each of these project topics, there is scope for a __Masters Practicum__, __Fourth Year Project__, or __Third year Project__.
 
 ## Entity Linking in Literary Fiction
 
@@ -35,5 +42,29 @@ The task is interesting because some paraphrasing is extremely difficult to reco
 
 This project would look to explore the different possible uses for Word Embeddings, and in particular how to improve their consistency and reliability on different-sized collections of documents.
 
+## Experiments in Reddit
+Reddit is a large-scale, highly diverse, online community. Some possible
+project ideas in this area include:
 
+1. Evolution of language on reddits: how do specific terms appear and disappear
+   in reddit discussions?
+2. Inter-community spread: where do links appear first, and how are they spread
+   across different reddits?
 
+## Dual-Screen Websites
+
+Modern Javascript allows realtime communication between different clients using
+the [WebRTC standard](http://www.webrtc.org/). Two possible projects here:
+
+1. Realtime web-based game development which accommodates both mobile and
+   desktop
+2. Web-based presentations controlled by the phone: developing a tool which can
+   allow a presenter view on a phone (or other web browser page) to control a
+slide deck.
+
+## Interactive Infographics
+
+Data-based story telling is a highly significant trend in journalism and in
+media. This would look at the creation of tools for creating interactive
+info-graphics that include features such as live data, adaptive views and
+personalisation.
