@@ -17,6 +17,19 @@ areas of the centre, or including possible collaboration with industry partners
 in the centre. If you have a topic you're interested in that fits that agenda,
 please get in touch.
 
+### Controlled Language
+
+In industry, documents and other text are normally written to
+particular style and content directives. This can include restricted
+vocabularies, simplified sentence structures, or particular
+readability requirements. This project would examine how content might
+be written or re-written, with computer support, to better follow
+these rules. It could include developing authoring software, enhancing
+linguistic tools, and/or surveying authors, translators, and editors.
+
+The project is co-supervised with an expert consultant from the
+Localisation Industry, Dr. Fred Hollowood.
+
 # Specific Projects
 
 For each of these project topics, there is scope for a __Masters Practicum__, __Fourth Year Project__, or __Third year Project__.
