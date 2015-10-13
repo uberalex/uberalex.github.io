@@ -1,13 +1,21 @@
 ---
 layout: post
-date: 2015-09-16
+date: 2015-10-13
 title: Project Ideas
 
 ---
 
+# Availabile Projects
+
+Please note that I am currently looking for student projects from:
+
+ * Third year Students
+ * Fourth year __Enterprise Computing__
+ * Masters Students
+
 # General Themes
 
-I have general interest in machine learning, especially [deep learning for natual language processing](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial). I am also interested in personalisation and web technologies, and the link with machine learning. I am open to suggested projects in these fields, drop me an [email](malito:Alexander.OConnor@scss.tcd.ie) to arrange a discussion.
+I have general interest in machine learning, especially [deep learning for natual language processing](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial). I am also interested in personalisation and web technologies, and the link with machine learning. I am open to suggested projects in these fields, drop me an [email](malito:Alexander.OConnor@dcu.ie) to arrange a discussion.
 
 ## ADAPT Centre Projects
 
