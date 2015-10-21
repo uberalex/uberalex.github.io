@@ -7,11 +7,7 @@ title: Project Ideas
 
 # Availabile Projects
 
-Please note that I am currently looking for student projects from:
-
- * Third year Students
- * Fourth year __Enterprise Computing__
- * Masters Students
+<h1>Please note that I am not looking for any more project proposals</h1>
 
 # General Themes
 
